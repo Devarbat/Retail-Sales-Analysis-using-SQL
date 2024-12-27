@@ -1,0 +1,15 @@
+/*
+CREATED BY: DEV
+CREATE DATE: 12/26/24
+DESCRIPTION: SQL Project
+*/
+
+SELECT
+	
+FROM
+
+ORDER BY
+
+
+SQL Password
+Devsql19@
