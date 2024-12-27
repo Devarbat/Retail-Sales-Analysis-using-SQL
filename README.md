@@ -1,1 +1,3 @@
-Let's Begin exploring the GitHub
+Let's Begin exploring the GitHub!! 
+
+SQL and PowerBI
