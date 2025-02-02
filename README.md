@@ -3,7 +3,6 @@
 ## Project Overview
 
 **Project Title**: Retail Sales Analysis  
-**Level**: Beginner
 **DBMS used**: MySQL
 **Database**: `p1_retail_db`
 
